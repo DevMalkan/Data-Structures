@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1623925042 source:d:\daiict sem 2\data structures lab\project\daaict student portal\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<stdlib.h>
+	"Student.h"
+	"ICT.h"
+	"Login.h"
+
+1623925042 d:\daiict sem 2\data structures lab\project\daaict student portal\include\student.h
+
+1623932998 d:\daiict sem 2\data structures lab\project\daaict student portal\include\ict.h
+	<Student.h>
+
+1623932998 d:\daiict sem 2\data structures lab\project\daaict student portal\include\login.h
+
+1623933160 source:d:\daiict sem 2\data structures lab\project\daaict student portal\src\login.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<stdlib.h>
+	"Student.h"
+	"ICT.h"
+	"Login.h"
+
+1623925042 source:d:\daiict sem 2\data structures lab\project\daaict student portal\src\student.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<stdlib.h>
+	"Student.h"
+	"ICT.h"
+	"Login.h"
+
+1623932998 source:d:\daiict sem 2\data structures lab\project\daaict student portal\src\ict.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<stdlib.h>
+	"Student.h"
+	"ICT.h"
+	"Login.h"
+
+1623942038 source:d:\daiict sem 2\data structures lab\daiictportal_202001040_202001087\daaict student portal\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<stdlib.h>
+	"Student.h"
+	"ICT.h"
+	"Login.h"
+
+1623925042 d:\daiict sem 2\data structures lab\daiictportal_202001040_202001087\daaict student portal\include\student.h
+
+1623932998 d:\daiict sem 2\data structures lab\daiictportal_202001040_202001087\daaict student portal\include\ict.h
+	<Student.h>
+
+1623932998 d:\daiict sem 2\data structures lab\daiictportal_202001040_202001087\daaict student portal\include\login.h
+
+1623933160 source:d:\daiict sem 2\data structures lab\daiictportal_202001040_202001087\daaict student portal\src\login.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<stdlib.h>
+	"Student.h"
+	"ICT.h"
+	"Login.h"
+
+1623925042 source:d:\daiict sem 2\data structures lab\daiictportal_202001040_202001087\daaict student portal\src\student.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<stdlib.h>
+	"Student.h"
+	"ICT.h"
+	"Login.h"
+

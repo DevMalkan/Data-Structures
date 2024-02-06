@@ -1,0 +1,3 @@
+202001000	12345678	abc       	def       	abcdef@gmail.com         
+202001040	qwerty12	Dev       	Malkan    	202001040@daiict.ac.in
+202001087	qwerty34	Siddharth 	Makhija   	202001087@daiict.ac.in
